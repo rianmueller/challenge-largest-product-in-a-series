@@ -13,7 +13,7 @@ Find the greatest product of five consecutive digits in the 1000-digit number.
 - Define a Class in `largestProduct.js` named `LargestProduct` that accepts a single argument, the 1000-digit number. This number should be set as an instance property.
 
 - This Class will have two instance methods:
-  - `getLargestProductIndex`returns the index of the largest product of 5 consecutive numbers in the 1000-digit number.
+  - `getLargestProductIndex`returns the starting index of the largest product of 5 consecutive numbers in the 1000-digit number.
   - `getLargestProduct` returns the value of the largest product of 5 consecutive numbers in the 1000-digit number.
 
 ## Getting Started

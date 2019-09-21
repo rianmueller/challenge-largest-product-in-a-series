@@ -1,5 +1,6 @@
 class LargestProduct {
   constructor(number) {
+    this.number = number;
     let array = number.split("");
     let index = 0;
     let product = 0;
